@@ -7,7 +7,7 @@
   | Ctrl + r | 履歴を遡ってインクリメンタル検索する |
 
 - インクリメンタル検索
-  - インクリメンタル検索時のプロンプト
+  - インクリメンタル検索時のプロンプト<br>
     [![Image from Gyazo](https://i.gyazo.com/5a57e227842ccfa3d72665e504fc1128.png)](https://gyazo.com/5a57e227842ccfa3d72665e504fc1128)
   - 操作
     | コマンド | 内容 |
